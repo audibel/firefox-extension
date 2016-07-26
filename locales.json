@@ -1,7 +1,11 @@
 {
-	"locales": [
-		"en",
-		"fr",
-		"de"
-	]
+  "locales": [
+	"en",
+	"en-GB",
+	"en-US",
+	"fr",
+	"fr-FR",
+	"de",
+	"de-DE"
+  ]
 }
